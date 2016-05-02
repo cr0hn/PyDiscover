@@ -34,7 +34,7 @@ with open(join(dirname(__file__), 'requirements.txt')) as f:
 
 setup(
     name='pydiscover',
-    version="1.0.0",
+    version="1.0.1",
     install_requires=required,
     url='https://github.com/cr0hn/pydiscover',
     license='BSD',
@@ -46,7 +46,7 @@ setup(
             'pydiscover-server = pydiscover.server:main',
             'pydiscover-client = pydiscover.client:main'
     ]},
-    description='Message Queue & Broker Injection tool',
+    description='Simple Secure and Lightweight Python Service Discovery ',
     long_description=open('README.rst', "r").read(),
     classifiers=[
         'Environment :: Console',
