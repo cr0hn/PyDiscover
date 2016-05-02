@@ -98,7 +98,7 @@ You can see more examples typing:
 
     # pydiscover-server -h
 
-*Client*
+**Client**
 
 Connecting to the server with the above configuration:
 
