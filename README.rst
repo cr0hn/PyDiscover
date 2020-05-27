@@ -10,6 +10,11 @@ PyDiscover
 :Python version: Python 3.4 and above
 :Author: Daniel Garcia (cr0hn) - @ggdaniel
 
+Support this project
+--------------------
+
+Support this project (to solve issues, new features...) by applying the Github "Sponsor" button.
+
 What's PyDiscover
 -----------------
 
